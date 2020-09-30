@@ -1,0 +1,9 @@
+.form-row{
+  padding-bottom: 2.5rem;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.editBtn {
+  background-color : blue;
+}
